@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "377785148334",
+    "firebase_url": "https://sdv602-robinlecouteur-db-v1.firebaseio.com",
+    "project_id": "sdv602-robinlecouteur-db-v1",
+    "storage_bucket": "sdv602-robinlecouteur-db-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377785148334:android:de45737beb5f13b5",
+        "android_client_info": {
+          "package_name": "com.robin.textgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377785148334-te2n8ockehil0u3mnqqs42r107i9f3a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqtm86uyAg6F_QQeGfXTuJ84j5Zlh2Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
